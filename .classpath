@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/lib/mongo-java-driver-2.11.4.jar"/>
+	<classpathentry kind="lib" path="E:/lib/spark-assembly-1.5.2-hadoop2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/lib/spark-csv_2.10-1.4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/lib/spark-examples-1.5.2-hadoop2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/lib/commons-csv-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/geotools-14.1/gt-app-schema-14.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/geotools-14.1/gt-app-schema-resolver-14.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/geotools-14.1/gt-arcgrid-14.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/geotools-14.1/gt-arcsde-14.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/geotools-14.1/gt-arcsde-common-14.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/jts-1.13/lib/jts-1.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
